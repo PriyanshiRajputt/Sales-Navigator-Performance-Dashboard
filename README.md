@@ -7,10 +7,10 @@ Designed and developed an interactive executive-level Sales Dashboard using Powe
 This project is an interactive Sales Dashboard built using Power BI, designed to provide an executive-level overview of sales performance. It consolidates sales data from multiple dimensions such as region, product, time, customer type, and promotions, enabling data-driven decision-making through clear KPIs and visual insights.
 
 3.🛠️ Tech Stack
-->Power BI – Data modeling, DAX measures, and interactive visualizations
-->Microsoft Excel – Initial data cleaning and preprocessing
-->SQL – Data querying, transformation, and aggregation
-->Kaggle Dataset – Primary data source for sales transactions
+     ->Power BI – Data modeling, DAX measures, and interactive visualizations
+     ->Microsoft Excel – Initial data cleaning and preprocessing
+     ->SQL – Data querying, transformation, and aggregation
+     ->Kaggle Dataset – Primary data source for sales transactions
 
 4.📂 Data Source
 Sales data sourced from Kaggle
