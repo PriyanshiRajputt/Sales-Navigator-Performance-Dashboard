@@ -1,10 +1,10 @@
 # Sales-Navigator-Performance-Dashboard
-1. 🏷️Project Title/ Headline
+ 1. 🏷️Project Title/ Headline
 Its a End-to-End Sales Analytics Dashboard | Power BI, SQL & Excel
 Designed and developed an interactive executive-level Sales Dashboard using Power BI, integrating data from Kaggle. Performed data cleaning, transformation, and aggregation using Excel and SQL to ensure high-quality analytics.
 
 
-2. 🔍 Short Description/Purpose
+ 2. 🔍 Short Description/Purpose
 This project is an interactive Sales Dashboard built using Power BI, designed to provide an executive-level overview of sales performance. It consolidates sales data from multiple dimensions such as region, product, time, customer type, and promotions, enabling data-driven decision-making through clear KPIs and visual insights.
 
 
