@@ -1,7 +1,11 @@
 # Sales-Navigator-Performance-Dashboard
 1. 🏷️Project Title/ Headline -
 Its a End-to-End Sales Analytics Dashboard | Power BI, SQL & Excel
-Designed and developed an interactive executive-level Sales Dashboard using Power BI, integrating data from Kaggle. Performed data cleaning, transformation, and aggregation using Excel and SQL to ensure high-quality analytics.
+Designed. 
+
+
+2. 🔍 Short Description/Purpose -
+This project is an integation using Excel and SQL to ensure high-quality analytics.
 
 
 2. 🔍 Short Description/Purpose -
