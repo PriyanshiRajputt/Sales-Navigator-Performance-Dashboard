@@ -5,10 +5,6 @@ Designed.
 
 
 2. 🔍 Short Description/Purpose -
-This project is an integation using Excel and SQL to ensure high-quality analytics.
-
-
-2. 🔍 Short Description/Purpose -
 This is an interactive Sales Dashboard built using Power BI, designed to provide an executive-level overview of sales performance. It consolidates sales data from multiple dimensions such as region, product, time, customer type, and promotions, enabling data-driven decision-making through clear KPIs and visual insights.
 
 
