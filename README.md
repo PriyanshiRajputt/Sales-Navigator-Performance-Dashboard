@@ -9,7 +9,7 @@ This project is an integation using Excel and SQL to ensure high-quality analyti
 
 
 2. 🔍 Short Description/Purpose -
-This project is an interactive Sales Dashboard built using Power BI, designed to provide an executive-level overview of sales performance. It consolidates sales data from multiple dimensions such as region, product, time, customer type, and promotions, enabling data-driven decision-making through clear KPIs and visual insights.
+This is an interactive Sales Dashboard built using Power BI, designed to provide an executive-level overview of sales performance. It consolidates sales data from multiple dimensions such as region, product, time, customer type, and promotions, enabling data-driven decision-making through clear KPIs and visual insights.
 
 
 3. 🛠️ Tech Stack -
