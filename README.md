@@ -32,26 +32,26 @@ Data was cleaned and structured using Excel and SQL before being imported into P
 
 
 5. ✨ Features & Highlights -
-     ->Executive KPIs
+     ->Executive KPIs -
          Total Revenue (5bn)
          Total Quantity Sold (523K)
          Total Orders (1500)
          Average Order Value (3.65M)
          Total Discount & Return Rate
 
-    ->Interactive Filters
+    ->Interactive Filters -
          Region, Product, Payment Method
          Salesperson, Month, Year
          Customer Type & Promotions
          Dynamic date and year range slicers
 
-    ->Visual Insights
+    ->Visual Insights -
          📈 Monthly Sales Trends analysis
          📊 Year-wise revenue comparison (2023–2025)
          🔁 Top 5 products with highest return rates
          🏆 Best and lowest selling products by revenue
 
-    ->Business Value
+    ->Business Value -
           Identifies declining sales trends
           Highlights high-return products for quality review
           Helps optimize promotions and product strategy
