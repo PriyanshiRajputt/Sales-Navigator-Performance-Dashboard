@@ -1,4 +1,4 @@
-# Sales-Navigator-Performance-Dashboard
+# 📊 Sales-Navigator-Performance-Dashboard
 1. 🏷️Project Title/ Headline -
 Its a End-to-End Sales Analytics Dashboard | Power BI, SQL & Excel
 Designed. 
